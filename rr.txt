@@ -1,1 +1,3 @@
-Gulab Rana
+Gulab rana 
+Make some changes to your repository locally. For example, modify a file or add a new one.
+Add and commit the changes. Finally, push the changes to GitHub:
